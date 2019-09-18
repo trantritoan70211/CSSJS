@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://sanhungthinh.net/du-an/cua-lo-beach-villa-nghe-an';
+	var url_popup = 'https://sanhungthinh.net/can-ho/can-ho-ascent-garden-homes-quan-7';
 
       //<![CDATA[
-	  // var url_ppp = 'https://sanhungthinh.net/du-an/cua-lo-beach-villa-nghe-an';
+	  // var url_ppp = 'https://sanhungthinh.net/can-ho/can-ho-ascent-garden-homes-quan-7';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
