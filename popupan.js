@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://sanhungthinh.net/can-ho/can-ho-ascent-garden-homes-quan-7';
+	var url_popup = 'https://tintucbds24h.info/can-ho-anderson-park-binh-duong';
 
       //<![CDATA[
-	  // var url_ppp = 'https://sanhungthinh.net/can-ho/can-ho-ascent-garden-homes-quan-7';
+	  // var url_ppp = 'https://tintucbds24h.info/can-ho-anderson-park-binh-duong';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
