@@ -139,7 +139,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://sanhungthinh.net/lien-he";
+	window.location="https://sannamland.com/lien-he";
 var linkhientai=window.location;
 if(getCookie(linkhientai)){
                 	
