@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://tintucbds24h.info/can-ho-anderson-park-binh-duong';
+	var url_popup = 'https://sannamland.com/du-an/hamubay-phan-thiet';
 
       //<![CDATA[
-	  // var url_ppp = 'https://tintucbds24h.info/can-ho-anderson-park-binh-duong';
+	  // var url_ppp = 'https://sannamland.com/du-an/hamubay-phan-thiet';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
